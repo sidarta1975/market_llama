@@ -1,0 +1,5 @@
+python-dotenv
+requests
+beautifulsoup4
+schedule
+google-api-python-client # For Google Docs API if you implement Google Doc reports
